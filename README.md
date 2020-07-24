@@ -26,7 +26,7 @@ app.get('/', function(req, res) {
 });
 ```
 
-Requests to `/robots.txt` will now return:
+Based on the setup above, a requests to `/robots.txt` will now return:
 
 ```
 User-agent: *
