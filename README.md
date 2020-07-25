@@ -37,11 +37,12 @@ Sitemap: https://yourdomain.com/sitemap.xml
 You can provide multiple entries by passing an array of values, the following:
 
 ```js
-[
+// add robots.txt middleware with custom config
+app.use(robotsTxt([
     { userAgent: 'Googlebot-news', allow: '/news', CrawlDelay: '5' },
     { userAgent: 'Googlebot', disallow: '/private' },
     { userAgent: 'Googlebot' disallow: '/*.xls$' }
-]
+]);
 ```
 
 Produces:
