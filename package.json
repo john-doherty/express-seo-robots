@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/orca-scan/express-seo-robots/issues"
   },
-  "homepage": "https://github.com/orca-scan/express-seo-robots#readme"
+  "homepage": "https://github.com/orca-scan/express-seo-robots#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
