@@ -50,8 +50,10 @@ Produces:
 User-agent: Googlebot-news
 Allow: /
 Crawl-delay: 5
+
 User-agent: Googlebot
 Disallow: /private
+
 User-agent: Googlebot
 Disallow: /*.xls$
 ```
