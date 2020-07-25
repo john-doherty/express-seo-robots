@@ -60,12 +60,12 @@ Disallow: /*.xls$
 
 ### Options
 
-Property     | Type    | Description
------------- |:------- |:------------------------------------------
-`userAgent`  | _string_  | The name of a search engine robot (web crawler software) that the rule applies to
-`allow`      | _string_  | A directory or page, relative to the root domain, that should be crawled by the user agent
-`disallow`   | _string_  | A directory or page, relative to the root domain, that should not be crawled by the user agent
-`crawlDelay` | _integer_ | Unofficial directive used to prevent overloading servers with too many requests
+Property     | Type      | Description
+------------ |:--------- |:------------------------------------------
+`userAgent`  | _string_  | Name of a search engine/bot that the rule applies to
+`allow`      | _string_  | URL relative to the root domain that should be crawled by the user agent
+`disallow`   | _string_  | URL relative to the root domain that should **not** be crawled by the user agent
+`crawlDelay` | _integer_ | Time in seconds the search engine/bot should wait before sending the next request
 `sitemap`    | _Array_   | List of fully-qualified SiteMap URLs
 
 ## Contributing
