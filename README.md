@@ -61,7 +61,7 @@ Disallow: /*.xls$
 ### Options
 
 Property     | Type      | Description
------------- |:--------- |:------------------------------------------
+:----------- |:--------- |:------------------------------------------
 `userAgent`  | _string_  | Name of a search engine/bot that the rule applies to
 `allow`      | _string_  | URL relative to the root domain that should be crawled by the user agent
 `disallow`   | _string_  | URL relative to the root domain that should **not** be crawled by the user agent
