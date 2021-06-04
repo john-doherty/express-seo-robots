@@ -1,6 +1,6 @@
 {
   "name": "express-seo-robots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple robots.txt file generation for express",
   "main": "index.js",
   "scripts": {
