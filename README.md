@@ -71,7 +71,7 @@ Property     | Type      | Description
 
 ## Contributing
 
-Feel free to contribute, either by [raising an issue](https://github.com/orca-scan/express-seo-robots/issues) or:
+Feel free to contribute, either by [raising an issue](https://github.com/john-doherty/express-seo-robots/issues) or:
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -81,7 +81,7 @@ Feel free to contribute, either by [raising an issue](https://github.com/orca-sc
 
 ## History
 
-For change-log, check [releases](https://github.com/orca-scan/express-seo-robots/releases).
+For change-log, check [releases](https://github.com/john-doherty/express-seo-robots/releases).
 
 ## License
 

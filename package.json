@@ -1,6 +1,6 @@
 {
   "name": "express-seo-robots",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple robots.txt file generation for express",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orca-scan/express-seo-robots.git"
+    "url": "git+https://github.com/john-doherty/express-seo-robots.git"
   },
   "keywords": [
     "express",
@@ -18,9 +18,9 @@
   "author": "John Doherty <contact@johndoherty.info> (www.johndoherty.info)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/orca-scan/express-seo-robots/issues"
+    "url": "https://github.com/john-doherty/express-seo-robots/issues"
   },
-  "homepage": "https://github.com/orca-scan/express-seo-robots#readme",
+  "homepage": "https://github.com/john-doherty/express-seo-robots#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
